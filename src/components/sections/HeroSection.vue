@@ -103,11 +103,7 @@ onBeforeUnmount(() => {
             <h1
               class="mt-8 font-['Outfit'] text-[68px] font-semibold leading-[0.96] tracking-[-0.065em] text-slate-950"
             >
-              <span
-                class="block"
-              >
-                发现真正有用的
-              </span>
+              <span class="block"> 发现真正有用的 </span>
               <span
                 class="mt-3 block bg-[linear-gradient(135deg,#1b8eff_0%,#4c6fff_52%,#7a7dff_100%)] bg-clip-text text-transparent"
               >
@@ -116,7 +112,7 @@ onBeforeUnmount(() => {
             </h1>
 
             <p class="mt-7 max-w-[540px] text-[17px] leading-8 text-slate-500">
-              夕牛聚合实用、可靠、可落地的 AI 技能，帮助你更轻松地提升效率、拓展能力，并把 AI 用进真实工作与收益场景。
+              别管那么多，NB就完事了！
             </p>
 
             <div class="mt-9 flex items-center gap-4">

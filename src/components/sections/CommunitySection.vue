@@ -18,7 +18,7 @@ import RevealBlock from "@/components/base/RevealBlock.vue";
           <p
             class="mx-auto mt-5 max-w-[620px] text-[15px] leading-8 text-slate-500"
           >
-            夕牛致力于让更多人低门槛使用 AI 技能，
+            致力于让更多人低门槛使用 AI 技能，
             <br />
             让有价值的能力被更快发现、真正落地，并持续创造效率与收益。
           </p>
@@ -30,7 +30,7 @@ import RevealBlock from "@/components/base/RevealBlock.vue";
       <div
         class="page-container flex items-center justify-between py-5 text-[11px] text-slate-400"
       >
-        <span>Copyright © 2026 夕牛. All rights reserved.</span>
+        <span>Copyright © 2026 猫某. All rights reserved.</span>
         <span>让 AI 技能更简单地被发现、使用与落地。</span>
       </div>
     </div>
